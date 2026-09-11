@@ -101,16 +101,14 @@ industrial-automation-cell/
 
 ## Documentação
 
-Durante o desenvolvimento serão adicionados:
+| Documento | Conteúdo | Estado |
+|---|---|---|
+| [Arquitetura do sistema](./docs/architecture.md) | Fluxo de sinais e responsabilidades de cada camada | Versão inicial |
+| [Mapa de entradas e saídas](./docs/io-map.md) | Variáveis, endereços e procedimento de validação | Em levantamento |
+| [Sequência operacional](./docs/sequence.md) | Etapas do ciclo automático | Pendente |
+| [Registro de falhas](./docs/troubleshooting.md) | Problemas, diagnóstico, correções e resultados | Pendente |
 
-* Diagrama da arquitetura
-* Tabela de entradas e saídas
-* Explicação da sequência de funcionamento
-* Capturas da lógica Ladder
-* Imagens da célula no Factory I/O
-* Registro dos problemas encontrados
-* Soluções implementadas
-* Resultados dos testes
+Durante o desenvolvimento também serão adicionadas capturas da lógica Ladder, imagens da célula no Factory I/O e evidências dos testes.
 
 ## Próximas etapas
 
@@ -131,6 +129,6 @@ Este projeto está sendo desenvolvido como parte do meu aprendizado em **automa�
 
 ---
 
-**Vinicius de Souza Araújo**
-Estudante de Eletroeletrônica
+**Vinicius de Souza Araújo**  
+Estudante de Eletroeletrônica  
 Interesses: Automação Industrial • Mecatrônica • Sistemas Embarcados
