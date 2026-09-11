@@ -106,7 +106,7 @@ industrial-automation-cell/
 | [Arquitetura do sistema](./docs/architecture.md) | Fluxo de sinais e responsabilidades de cada camada | Versão inicial |
 | [Mapa de entradas e saídas](./docs/io-map.md) | Variáveis, endereços e procedimento de validação | Em levantamento |
 | [Sequência operacional](./docs/sequence.md) | Etapas do ciclo automático | Pendente |
-| [Registro de falhas](./docs/troubleshooting.md) | Problemas, diagnóstico, correções e resultados | Pendente |
+| [Registro de falhas](./docs/troubleshooting.md) | Problemas, diagnóstico, correções e resultados | Em investigação |
 
 Durante o desenvolvimento também serão adicionadas capturas da lógica Ladder, imagens da célula no Factory I/O e evidências dos testes.
 
